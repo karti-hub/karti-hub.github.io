@@ -70,8 +70,8 @@ a:hover {
   margin: 15 auto;
   border-radius: 60px;
   border-color: black;
-  border-style: dotted;
-  padding: 5px;
+  border-style: solid;
+  padding: 0px;
   border-color: #d2d2d2;
 }
 hr {
